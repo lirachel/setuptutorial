@@ -3,6 +3,8 @@
 Window *my_window;
 TextLayer *text_layer;
 
+//comment
+
 void handle_init(void) {
   my_window = window_create();
 
