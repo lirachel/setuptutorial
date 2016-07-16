@@ -1,0 +1,29 @@
+{
+    "author": "Rachel",
+    "dependencies": {},
+    "keywords": [],
+    "name": "setup-tutorial",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Setup Tutorial",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "012895d1-57c7-4914-a0fe-06b234438b26",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
